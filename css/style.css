@@ -60,11 +60,17 @@ h2{
 	font:helvetica;
 	font-size: 30px;
 }
+.textbox{
+	border: 3px; 
+	border-style: solid; 
+	border-color: black; 
+	padding: 2em;
+}
 .white{
 	background-color:white;
 }
 .blueh1{
-	color:#F0F8FF;
+	color:black;
 	font-size:30px;
 }
 
@@ -80,13 +86,14 @@ h2{
 }
 
 .g-50{
-	width: 50%;
+	width: 30%;
 	float: left;
 }
 
 .g-30{
 	width: 30%;
 	float: left;
+	margin-left: 120px;
 }
 
 .g-70{
