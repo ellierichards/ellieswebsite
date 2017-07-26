@@ -18,10 +18,12 @@ section{
 }
 
 header{
-	background-color: lightpink;
+	background-color: #F6B6FF;
 	color: white; /* more readable on an orange background */
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+
 }
 
 nav{
@@ -50,7 +52,7 @@ nav a:hover{
 
 }
 h1{
-	color:black;
+	color:#0096E8;
 	font:helvetica;
 	font-size: 60px;
 }
@@ -60,6 +62,34 @@ h2{
 	font:helvetica;
 	font-size: 30px;
 }
+.banner1{
+	max-width: 1000px;
+	color:black;
+	font:helvetica;
+	font-size: 60px;
+}
+
+.banner2{
+	max-width: 1000px;
+	color:black;
+	font:helvetica;
+	font-size: 60px;
+}
+.banner3{
+	max-width: 1000px;
+	color:black;
+	font:helvetica;
+	font-size: 60px;
+}
+
+.banner4{
+	max-width: 1000px;
+	color:black;
+	font:helvetica;
+	font-size: 60px;
+}
+
+
 .textbox{
 	border: 3px; 
 	border-style: solid; 
